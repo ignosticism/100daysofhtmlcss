@@ -1,0 +1,47 @@
+main {
+  margin: 200px auto 72px auto;
+  padding: 24px;
+  display: inline-block;
+  width: 800px;
+  background-color: #df6c50;
+  border: solid 5px rgb(44, 44, 44);
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  font-size: 30px;
+  color: rgb(31, 25, 25);
+}
+
+a {
+  color: rgb(73, 29, 50);
+}
+span {
+  color: rgb(66, 2, 2);
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: solid 5px rgb(44, 44, 44);
+  margin-top: -134px;
+}
+
+#challenge {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: rgb(75, 59, 59);
+  font-weight: bold;
+  font-size: 55px;
+  margin: 0 20px;
+  line-height: 1.4;
+}
+
+#explore {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(70, 67, 68);
+  font-size: 25px;
+}
